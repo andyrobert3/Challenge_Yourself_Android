@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "677555546603",
+    "firebase_url": "https://messaging-52485.firebaseio.com",
+    "project_id": "messaging-52485",
+    "storage_bucket": "messaging-52485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677555546603:android:0534627f36a1ee0c",
+        "android_client_info": {
+          "package_name": "com.example.aaryam123.everyday_challenge_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677555546603-3cghkvcd2u9r58p43sr7c5tkps6vsijg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aaryam123.everyday_challenge_final",
+            "certificate_hash": "751bcc379d05747e0ca06251e869ce3ce450e6f0"
+          }
+        },
+        {
+          "client_id": "677555546603-8qe7eee5i6mnigqfb8qs3vp8daqqcjvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhrcUULItk-MUurGtMivWMHSbEz21kFpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677555546603-8qe7eee5i6mnigqfb8qs3vp8daqqcjvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
